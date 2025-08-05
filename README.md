@@ -46,3 +46,4 @@ AI writing tools for essays, bios, product descriptions
 Automated poetry or screenplay generation
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/3a6c72ae-6d52-4aa5-9851-99fc35c9e704)
